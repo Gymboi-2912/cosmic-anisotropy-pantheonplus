@@ -5,7 +5,7 @@ Code for:
 **"Testing Axis Coherence Among Cosmic Anisotropy Probes: A Pantheon+ Analysis
 of Hemispherical Expansion, Flow-Correction Artefacts, and Multi-Probe Dipole Structure"**
 
-**Author:** Saksham Sharma (Independent Researcher, Noida, India)  
+**Author:** Saksham Sharma (Independent Researcher, India)  
 **Submitted to:** Physics of the Dark Universe  
 **Preprint:** arXiv:astro-ph.CO (pending)
 
